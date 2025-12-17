@@ -261,7 +261,8 @@ footer div button {
     .nav-section-3 ul {
         padding: 0;
     }
-}
+    .fa-solid{display: none;
+}}
 
 
 
@@ -317,7 +318,7 @@ footer div button {
         
     }
 
-    .catagory {;justify-content: center;align-items: center;width: 100%;
+    .catagory {justify-content: center;align-items: center;width: 100%;
     }
 
     .bag-grid,
@@ -336,4 +337,5 @@ footer div button {
     .nav-section-3 ul {
         padding: 0;
     }
-}
+    .fa-solid{display: none;
+}}
